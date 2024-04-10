@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-04-10T03:14:47.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="oYE713BH9pkRMVHbrp2x" version="24.2.1" type="github">
+  <diagram name="Page-1" id="Nh5SLB6KO3mbggZ7osWz">
+    <mxGraphModel dx="786" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fh5meGHBbsea_8ocMort-1" value="config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="20" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-6" value="model" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-7" value="datasets" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-8" value="work_dir" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-9" value="log_config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-10" value="log_config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-11" value="optimizer_config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-12" value="Ir_config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fh5meGHBbsea_8ocMort-13" value="epoch" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
