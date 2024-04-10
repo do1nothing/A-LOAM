@@ -1,38 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T03:14:47.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="oYE713BH9pkRMVHbrp2x" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T03:52:44.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="-B_S9Os4s7cjP8NkMjbf" version="24.2.1" type="github">
   <diagram name="Page-1" id="Nh5SLB6KO3mbggZ7osWz">
     <mxGraphModel dx="786" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fh5meGHBbsea_8ocMort-1" value="config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-1" value="config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="210" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="170" y="70" width="20" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-6" value="model" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-6" value="model" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="70" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-7" value="datasets" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-7" value="datasets" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="110" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-8" value="work_dir" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-8" value="work_dir" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-9" value="log_config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-9" value="log_config" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="190" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-10" value="log_config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-10" value="log_config" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="230" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-11" value="optimizer_config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-11" value="optimizer_config" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="270" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-12" value="Ir_config" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-12" value="Ir_config" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="310" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fh5meGHBbsea_8ocMort-13" value="epoch" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fh5meGHBbsea_8ocMort-13" value="epoch" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="350" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ndg8wz9jnq_lfAVhz4W-1" value="from mmcv import ..." style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="530" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ndg8wz9jnq_lfAVhz4W-2" value="find / -type d -name &quot;mmcv&quot;&lt;div&gt;grep -r &quot;init_dist&quot; /path/&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="0Ndg8wz9jnq_lfAVhz4W-1">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
